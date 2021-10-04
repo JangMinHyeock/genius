@@ -11,12 +11,12 @@
 .venus{
     float:left;
     width:30px;
-    height:20px;
+    height:30px;
 }
 .earth{
     float:left;
-    width:1px;
-    height:1px;
+    width:30px;
+    height:30px;
 }
 .mars{
     float:left;
