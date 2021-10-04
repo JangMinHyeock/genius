@@ -1,3 +1,45 @@
-* { margin:0; padding: 0; }
-ul, li { list-style: none; }
-a { color: yellow; text-decoration: none; }
+.sun{
+    float:left;
+    width:70px;
+    height:70px;
+}
+.mercury{
+    float:left;
+    width:15;
+    height:15px
+}
+.venus{
+    float:left;
+    width:30px;
+    height:20px;
+}
+.earth{
+    float:left;
+    width:30px;
+    height:30px;
+}
+.mars{
+    float:left;
+    width:15px;
+    height:15px;
+}
+.jupiter{
+    float:left;
+    width:55px;
+    height:55px;
+}
+.saturn{
+    float:left;
+    width:50px;
+    height:50px;
+}
+.uranus{
+    float:left;
+    width:40px;
+    height:40px;
+}
+.neptune{
+    float:left;
+    width:40px;
+    height:40px;
+}
