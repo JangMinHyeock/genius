@@ -1,4 +1,9 @@
 body{
     background:url(background.jpg);
-    max-width:1800px
-    }
+    max-width:1800px;
+    } 
+.sun{
+    width:100%;
+    height:100%;
+    float: left;
+}
