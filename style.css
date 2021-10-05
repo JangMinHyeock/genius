@@ -1,6 +1,7 @@
 body{
     background:url(background.jpg);
     max-width:1800px;
+    background-repeat: no-repeat;
     } 
 .sun{
     width:100%;
