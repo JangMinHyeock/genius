@@ -3,35 +3,3 @@ body{
     max-width:1800px;
     background-repeat: no-repeat;
     } 
-.sun{
-    width:100%;
-    height:100%;
-    float: left;
-}
-.mercury{
-    float: left;
-}
-.venus{
-    float: left;
-}
-.earth{
-    float: left;
-}
-.moon{
-    float: left;
-}
-.mars{
-    float: left;
-}
-.jupiter{
-    float: left;
-}
-.saturn{
-    float: left;
-}
-.uranus{
-    float: left;
-}
-.neptune{
-    float: left;
-}
