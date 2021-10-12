@@ -16,6 +16,6 @@ a { color: rgb(255, 255, 255); text-decoration: none; }
     line-height: 40px;
 }
 #nav ul li {
-    float: left;
+    float: center;
     padding: 0 10px;
 }
